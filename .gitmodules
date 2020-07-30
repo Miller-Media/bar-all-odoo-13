@@ -1,0 +1,4 @@
+[submodule "Miller-Media/odoo-skuvault-connector"]
+	path = Miller-Media/odoo-skuvault-connector
+	url = git@github.com:Miller-Media/odoo-skuvault-connector.git
+	branch = odoo-13
