@@ -7,8 +7,3 @@
 	path = Miller-Media/connector
 	url = git@github.com:Miller-Media/connector.git
 	branch = 13.0
-
-[submodule "Miller-Media/quickbooks_connector"]
-	path = Miller-Media/quickbooks_connector
-	url = git@github.com:Miller-Media/quickbooks_connector.git
-	branch = master
